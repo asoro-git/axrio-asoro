@@ -1,3 +1,7 @@
+# A tweaked version of the original axrio code made by @geshan
+
+renamed as axrio-asoro
+
 # axrio
 
 A package that combines Axios and Cheerio to get a web page.
